@@ -1,0 +1,10 @@
+.exit-intent-wrapper {
+    display:block;
+    position:absolute;
+    background: #0e0e0e80;
+}
+
+.image {
+    width: auto;
+    height: 200px;
+}
